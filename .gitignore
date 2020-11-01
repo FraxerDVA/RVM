@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Content/*
-!Content/GKnight
+!Content/GKnight/*
