@@ -75,3 +75,20 @@ DerivedDataCache/*
 
 Content/*
 !Content/GKnight/*
+!Content/AdvancedVillagePack/*
+!Content/AnimalVarietyPack/*
+!Content/Collections/*
+!Content/EnvironmentPack1/*
+!Content/FXVarietyPack/*
+!Content/M5VFXVOL2/*
+!Content/MedievalDungeon/*
+!Content/PhotoR_Backgrounds/*
+!Content/PN_coniferBushes_I/*
+!Content/PN_interactiveSpruceForest/*
+!Content/ProceduralNaturePack/*
+!Content/QuadrapedCreatures/*
+!Content/WaterMaterials/*
+!Content/WaterPlane/*
+!Content/Weapon_Pack/*
+!Content/StarterContent/*
+!Content/Mine
